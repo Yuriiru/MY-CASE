@@ -1,4 +1,4 @@
-# My-case
+# MY-CASE
 <img width="225" alt="Снимок экрана 2023-02-11 в 07 11 51" src="https://user-images.githubusercontent.com/98612792/218238627-fe535462-fd96-400e-adf5-a789e0ca0bf9.png">
 
 ## Общее описание
